@@ -54,6 +54,7 @@ use App\Http\Controllers\Main\IndexController;
 use App\Http\Controllers\SocialController;
 use Illuminate\Support\Facades\Auth;
 use Illuminate\Support\Facades\Route;
+use Laravel\Socialite\Facades\Socialite;
 
 /*
 |--------------------------------------------------------------------------
