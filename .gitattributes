@@ -6,6 +6,10 @@
 *.md diff=markdown
 *.php diff=php
 
+* linguist-vendored
+*.php linguist-vendored=false
+
 /.github export-ignore
 CHANGELOG.md export-ignore
 .styleci.yml export-ignore
+
